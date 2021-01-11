@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "test_html",
-=======
   "name": "test_java",
->>>>>>> 0363b399e6831ef2174a599fdce3565bc79d5fdb
   "version": "0.1.0",
   "private": true,
   "dependencies": {
